@@ -16,7 +16,7 @@ const projects = [
       "Hotel Booking Platform with JWT Auth",
     image: "/projects/project1.png",
     tags: ["React", "Typescript", "NodeJS", "ExpressJs", "MongoDB", "REST API"],
-    link: "#",
+    link: "https://car-renting-platform-jsxt.vercel.app/",
     github: "https://github.com/sabbanoori/Car_Renting_Platform",
   },
 ];
@@ -67,8 +67,7 @@ export const Projects = () => {
                  to-transparent opacity-60"
                 />
                 {/* Overlay Links */}
-                <div className="absolute inset-0 flex items-center justify-center gap-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                  <a
+                <div className="absolute inset-0 flex items-center justify-center gap-4 md:opacity-0 md:group-hover:opacity-100 transition-opacity duration-300 opacity-70 md:opacity-0">  <a
                     href={project.link} target="_blank"
                     className="p-3 rounded-full glass hover:bg-primary hover:text-primary-foreground transition-all"
                   >
