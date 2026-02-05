@@ -4,7 +4,7 @@ const projects = [
   {
     title: "Hotel Booking Platform",
     description:
-      "Hotel Booking Platform with OAuth(Google Auth) and stripe based payment system",
+      "Hotel Booking Platform with OAuth(Google Auth) and stripe based payment system. Problem Solved: Manual hotel booking and room management is inefficient and error-prone",
     image: "/projects/project.png",
     tags: ["React", "Typescript", "NodeJS", "ExpressJs", "MongoDB", "REST API"],
     link: "https://hotel-booking-platform-sabba.vercel.app/",
@@ -13,11 +13,20 @@ const projects = [
   {
     title: "Car Renting Platform",
     description:
-      "Hotel Booking Platform with JWT Auth",
+      "Hotel Booking Platform with JWT Auth. Problem Solved: Lack of automated tracking for car rentals and availability",
     image: "/projects/project1.png",
     tags: ["React", "Typescript", "NodeJS", "ExpressJs", "MongoDB", "REST API"],
     link: "https://car-renting-platform-jsxt.vercel.app/",
     github: "https://github.com/sabbanoori/Car_Renting_Platform",
+  },
+  {
+    title: "Realtime Chat App",
+    description:
+      "Realime Chat Application Developed using Websockets and Socket.io",
+    image: "/projects/project5.jpg",
+    tags: ["React", "Typescript", "NodeJS", "ExpressJs", "MongoDB", "Websockets", "Socket.io"],
+    link: "https://realtime-chat-app-woad-gamma.vercel.app/",
+    github: "https://github.com/sabbanoori/Realtime_ChatApp.git",
   },
 ];
 

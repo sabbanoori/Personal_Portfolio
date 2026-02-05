@@ -10,12 +10,16 @@ import {
 import { AnimatedBorderButton } from "../components/AnimatedBorderButton";
 
 const skills = [
+  "C",
+  "C++","Python","SQL", "HTML", "CSS", "MySQL",
   "React",
   "Next.js",
   "TypeScript",
   "Node.js",
   "GraphQL",
-  "PostgreSQL",
+  "WebSockets",
+  "Webhooks",
+  "Socket.io",
   "MongoDB",
   "Postman",
   "RestAPI",
@@ -23,16 +27,10 @@ const skills = [
   "Scalability",
   "Secure Systems",
   "System Design",
-  "Redis",
-  "Docker",
-  "AWS",
   "Vercel",
   "Tailwind CSS",
   "Bootsrap",
-  "Jest",
-  "Cypress",
-  "Figma",
-  "Git",
+  "Git", "GitHub", "Vs Code", "Unreal Engine (C++, Blueprints)", "Unity (C#)",
   "Leetcode",
 ];
 

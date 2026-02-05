@@ -49,30 +49,19 @@ export const About = () => {
 
             <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200">
               <p>
-                I'm a passionate software engineer with extensive
-                experience crafting digital products that make a difference. My
-                journey started with a curiosity for how things work on the web,
-                and it has evolved into a deep expertise in modern frontend
-                technologies.
+                I’m a passionate software developer with hands-on experience building practical applications that focus on core logic, system design, and real-time communication. My journey began with curiosity about how software systems work behind the scenes, and it has grown into a strong interest in computer science fundamentals and backend development.
               </p>
               <p>
-                I specialize in React, Next.js, Node.js and TypeScript, building
-                everything from sleek landing pages to complex enterprise
-                applications. My approach combines technical excellence with a
-                keen eye for design and user experience.
+                I work with C++, Python, JavaScript, TypeScript, and SQL, developing backend-driven applications and logic-focused projects, including booking and management systems as well as real-time applications using REST APIs, WebSockets, and Socket.IO. My approach emphasizes clean code, problem-solving, and understanding how data, algorithms, and systems interact rather than focusing only on surface-level interfaces.
               </p>
               <p>
-                When I'm not coding, you'll find me exploring new technologies,
-                contributing to open-source projects, or sharing knowledge with
-                the developer community.
+                When I’m not coding, I focus on strengthening my computer science foundations, learning new technologies, and improving my understanding of algorithms, databases (SQL and MongoDB), and system-level programming through continuous self-study and hands-on projects.
               </p>
             </div>
 
             <div className="glass rounded-2xl p-6 glow-border animate-fade-in animation-delay-300">
               <p className="text-lg font-medium italic text-foreground">
-                "My mission is to create digital experiences that are not just
-                functional, but truly delightful — products that users love to
-                use and developers love to maintain."
+                "My goal is to design and build software systems that are not only functional and reliable, but also well-structured, maintainable, and efficient — solutions that solve real problems while remaining scalable and easy to evolve over time."
               </p>
             </div>
           </div>
