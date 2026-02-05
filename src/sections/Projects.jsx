@@ -4,7 +4,7 @@ const projects = [
   {
     title: "Hotel Booking Platform",
     description:
-      "Hotel Booking Platform with OAuth(Google Auth) and stripe based payment system. Problem Solved: Manual hotel booking and room management is inefficient and error-prone",
+      "Hotel Booking Platform with OAuth(Google Auth) and stripe based payment system. Problem Solved: Manual hotel booking and room management is inefficient and error-prone. Key Features: Hotel and room listings, Real-time availability checking, Reservation management",
     image: "/projects/project.png",
     tags: ["React", "Typescript", "NodeJS", "ExpressJs", "MongoDB", "REST API"],
     link: "https://hotel-booking-platform-sabba.vercel.app/",
@@ -13,7 +13,7 @@ const projects = [
   {
     title: "Car Renting Platform",
     description:
-      "Hotel Booking Platform with JWT Auth. Problem Solved: Lack of automated tracking for car rentals and availability",
+      "Hotel Booking Platform with JWT Auth. Problem Solved: Lack of automated tracking for car rentals and availability. Key Features: Vehicle listing with availability status, Booking and return management, Rental record tracking",
     image: "/projects/project1.png",
     tags: ["React", "Typescript", "NodeJS", "ExpressJs", "MongoDB", "REST API"],
     link: "https://car-renting-platform-jsxt.vercel.app/",
