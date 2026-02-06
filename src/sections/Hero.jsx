@@ -98,7 +98,7 @@ export const Hero = () => {
               <Button size="lg"  onClick={() => document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' })}>
                   Contact Me <ArrowRight className="w-5 h-5" />
               </Button>
-              <a href="/sabba-noori-cv.pdf" download="sabba_noori_cv.pdf">
+              <a href="/sabba_noori_cv.pdf" download="sabba_noori_cv.pdf">
               <AnimatedBorderButton>
                 <Download className="w-5 h-5" />
                 Download CV
