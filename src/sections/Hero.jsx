@@ -82,15 +82,14 @@ export const Hero = () => {
               <h1 className="text-5xl md:text-4xl lg:text-4xl font-bold leading-tight animate-fade-in animation-delay-100">
                 Hi I'm <span className="text-primary glow-text">Sabba Noori</span>
                 <br />
-                a software engineer
+                a full-stack software developer
                 <br />
                 <span className="font-serif italic font-normal text-white">
-                  specializing in ...
+                  I work with C++, Python, JavaScript, TypeScript, and SQL, 
                 </span>
               </h1>
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                React, Next.js, Node.js and TypeScript. I build scalable, performant web
-                applications that users love.
+                developing end-to-end solutions using React, REST APIs, and WebSockets
               </p>
             </div>
 
@@ -99,7 +98,7 @@ export const Hero = () => {
               <Button size="lg"  onClick={() => document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' })}>
                   Contact Me <ArrowRight className="w-5 h-5" />
               </Button>
-              <a href="/sabba-noori-cv.pdf" download="Sabba-Noori-CV.pdf">
+              <a href="/sabba-noori-cv.pdf" download="sabba_noori_cv.pdf">
               <AnimatedBorderButton>
                 <Download className="w-5 h-5" />
                 Download CV
