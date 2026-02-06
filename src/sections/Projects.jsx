@@ -11,15 +11,6 @@ const projects = [
     github: "https://github.com/sabbanoori/Hotel_Booking_Platform",
   },
   {
-    title: "Car Renting Platform",
-    description:
-      "Hotel Booking Platform with JWT Auth. Problem Solved: Lack of automated tracking for car rentals and availability. Key Features: Vehicle listing with availability status, Booking and return management, Rental record tracking",
-    image: "/projects/project1.png",
-    tags: ["React", "Typescript", "NodeJS", "ExpressJs", "MongoDB", "REST API"],
-    link: "https://car-renting-platform-jsxt.vercel.app/",
-    github: "https://github.com/sabbanoori/Car_Renting_Platform",
-  },
-  {
     title: "Realtime Chat App",
     description:
       "Realime Chat Application Developed using Websockets and Socket.io",
@@ -27,6 +18,15 @@ const projects = [
     tags: ["React", "Typescript", "NodeJS", "ExpressJs", "MongoDB", "Websockets", "Socket.io"],
     link: "https://realtime-chat-app-woad-gamma.vercel.app/",
     github: "https://github.com/sabbanoori/Realtime_ChatApp.git",
+  },
+  {
+    title: "Car Renting Platform",
+    description:
+      "Hotel Booking Platform with JWT Auth. Problem Solved: Lack of automated tracking for car rentals and availability. Key Features: Vehicle listing with availability status, Booking and return management, Rental record tracking",
+    image: "/projects/project1.png",
+    tags: ["React", "Typescript", "NodeJS", "ExpressJs", "MongoDB", "REST API"],
+    link: "https://car-renting-platform-jsxt.vercel.app/",
+    github: "https://github.com/sabbanoori/Car_Renting_Platform",
   },
 ];
 
