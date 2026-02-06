@@ -79,7 +79,7 @@ export const Hero = () => {
 
             {/* Headline */}
             <div className="space-y-4">
-              <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight animate-fade-in animation-delay-100">
+              <h1 className="text-5xl md:text-4xl lg:text-4xl font-bold leading-tight animate-fade-in animation-delay-100">
                 Hi I'm <span className="text-primary glow-text">Sabba Noori</span>
                 <br />
                 a software engineer
